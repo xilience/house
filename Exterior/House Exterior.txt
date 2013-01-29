@@ -6,4 +6,4 @@ Interfaces:
    - Front Yard
    - Backyard
    - Driveway
-   - Earth/Fire/Wind/Water/~~Heart~~
+   - Earth/Fire/Wind/Water/(Heart?)
