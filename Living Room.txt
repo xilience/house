@@ -1,8 +1,0 @@
-Living Room
-
-This room is currently used for general laziness, television, internet surfing, etc. It is located within the 1st floor.
-
-Interfaces:
-   - Front Door 
-   - Kitchen
-   - Stairs leading to 2nd floor
