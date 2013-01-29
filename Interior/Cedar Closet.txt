@@ -1,0 +1,7 @@
+Cedar Closet
+
+This closet is accessible from the Pink room on the 2nd Floor. It is currently used for storing extra clothing, Frank's work clothes, coats, luggage, gift wrapping, and various home wares.
+
+Interfaces:
+   - Pink Room
+

@@ -1,0 +1,6 @@
+2nd Floor Bathroom
+
+This bathroom has had minor changes since the house was purchased. It is due to a major update. It is on the 2nd floor.
+
+Interfaces:
+   - 2nd Floor Hallway

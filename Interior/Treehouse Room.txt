@@ -1,0 +1,7 @@
+Treehouse Room
+
+This room is currently a guest room. It is located on the 2nd floor. It was renovated and the unfinished wood walls were removed, but we didn't have the heart to change it's name.
+
+Interfaces:
+   - 2nd Floor Hallway 
+

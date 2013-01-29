@@ -1,0 +1,6 @@
+Scary Closet
+
+This room is currently used for storing Frank's massive backlog of electronics that he has trouble parting with. It stores seasonal decorations and related items. It also stores Frank's sports equipment. It is located on the 2nd floor. It is also no longer scary (after a paint job and a new floor were installed).
+
+Interfaces:
+   - 2nd Floor Hallway

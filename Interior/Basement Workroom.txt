@@ -1,0 +1,8 @@
+Basement Work Room
+
+This room is currently used to store tools, house materials, and has benches to perform light tasks.
+
+Interfaces:
+   - Basement Family Room
+   - Basement Boiler Room
+   - Basement Office

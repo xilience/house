@@ -1,0 +1,7 @@
+Bilco Doors
+
+Locked door that offers a wide entrance to move items into the basement of the house. The stairs were new prior to house purchase, but became horribly stained upon use.
+
+Interfaces:
+   - Boiler Room
+   - Backyard

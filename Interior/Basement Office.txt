@@ -1,0 +1,8 @@
+Basement Office
+
+This room is currently used for storing house materials that do not fit inside the work room. The plan is to eventually make this room a laundry room.
+
+Interfaces:
+   - Basement Boiler Room 
+   - Basement Bilco Doors
+   - Basement Work Room

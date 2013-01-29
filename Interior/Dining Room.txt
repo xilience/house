@@ -1,0 +1,6 @@
+Dining Room
+
+This room is currently used for hosting luxurious dinners for special guests. For the other 364 days, it's used to store an unfinished puzzle and the ironing board. It is located on the 1st floor.
+
+Interfaces:
+   - 1st Floor Hallway

@@ -1,0 +1,9 @@
+House Exterior
+
+Contains all exterior elements of the house including: siding, windows, roof, hoses, driveway.
+
+Interfaces:
+   - Front Yard
+   - Backyard
+   - Driveway
+   - Earth/Fire/Wind/Water/~~Heart~~

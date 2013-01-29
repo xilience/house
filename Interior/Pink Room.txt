@@ -1,0 +1,7 @@
+Pink Room
+
+This room is currently housing the "office", ie the only desktop computer in the house. It is located on the 2nd floor. It is also no longer pink, but "cloud blue".
+
+Interfaces:
+   - 2nd Floor Hallway
+   - Cedar Closet

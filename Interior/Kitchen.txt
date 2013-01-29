@@ -1,0 +1,8 @@
+Kitchen
+
+This room contains specialized equipment used to preparing materials not eligible for raw consumption, though it also contains storage areas to store those raw consumption materials. It also contains a unit capable of storing the consumables at lower temperatures to lengthen their lifetimes prior to spoiling. It is located on the 1st floor.
+
+Interfaces:
+   - Living Room
+   - 1st Floor Hallway
+

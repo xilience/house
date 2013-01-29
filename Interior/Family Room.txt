@@ -1,0 +1,8 @@
+Family Room
+
+This room was renovated but not finished. It will eventually be the primary family room for laziness and fun times. Plus, there's a bar! It is in the basement.
+
+Interfaces:
+   - Stairs to 1st Floor
+   - Work Room
+   - Boiler Room

@@ -1,0 +1,6 @@
+1st Floor Bathroom
+
+Work on this room was completed ~August 2012. It is on the 1st Floor.
+
+Interfaces:
+   - 1st Floor hallway

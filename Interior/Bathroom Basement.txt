@@ -1,0 +1,6 @@
+Bathroom
+
+This bathroom was renovated recently prior to the purchase of the house and is not in need of immediate attention. It is in the basement.
+
+Interfaces:
+   - Boiler Room (currently also Laundry Room)

@@ -1,0 +1,8 @@
+Backyard
+
+Heavily grassy area where children may roam. Prone to catching balls from other yards. Contains 2 storage sheds.
+
+Interfaces:
+   - House back door (1st floor)
+   - Bilco Doors
+   - Fence to Driveway

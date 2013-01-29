@@ -1,0 +1,8 @@
+Front Yard
+
+Front area of house with 2 separate patches of flowers/bushes/plants. 
+
+Interfaces:
+   - External Access
+   - Front door to house
+   - Driveway

@@ -1,0 +1,7 @@
+Master Bedroom
+
+This room is currently used for sleeping, dressing, and storing clothing. It is located on the 1st floor.
+
+
+Interfaces:
+   - 1st Floor Hallway
